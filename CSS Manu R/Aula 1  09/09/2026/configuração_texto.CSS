@@ -1,0 +1,22 @@
+/* {
+    margin: 0;
+    padding:0;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+
+body {
+    background-color: #fce7ec;
+}
+
+h1 {
+    color: #c90505;
+     font-family: "Nosifer", sans-serif;
+}
+
+p {
+    font-family: "Irish Grover", system-ui;
+    font-size: 20px;
+}
+

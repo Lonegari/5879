@@ -1,0 +1,45 @@
+*{
+    margin: 10px
+}
+
+.box1{
+    font-size: 10px;
+}
+
+.box2{
+   font-size: 2rem;
+}
+
+article{
+    font-size: 10px;
+}
+
+ol{
+    font-size: 2em;
+}
+
+li{
+    font-size: 2em;
+}
+
+section{
+    font-size: 20px;
+}
+
+p{
+    font-size: 1.5em;
+}
+
+article{
+    background-color: bisque;
+    height: 50vh;
+    width: 50vw;
+}
+
+section{
+    background-color: antiquewhite;
+}
+
+
+
+

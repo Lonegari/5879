@@ -1,0 +1,17 @@
+div{
+    height: 200px;
+    width: 200px;
+    border: 2px solid rgb(66, 51, 151);
+    margin: 10px;
+}
+
+.box1{
+    background-color: rgb(189, 126, 134);
+    display: inline block;
+}
+
+.box2{
+    background-color: rgb(188, 236, 220);
+    display: inline blox;
+    display: none;
+}

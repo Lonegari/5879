@@ -1,0 +1,22 @@
+@media screen and (max-width:400px) {
+    .nome1{
+        color:coral;
+        font-size: 20px;
+    }
+} 
+ @media print and (max-width:800px) {
+    .nome2 {
+        color:rgb(80, 255, 133);
+        font-size: 20px;
+        text-align: right;
+    }
+ }
+
+ @media (max-width:600px){
+    .nome3{
+        color:rgb(255, 0, 0);
+        font-size: 20px;
+        text-align: center;
+    }
+ }
+    

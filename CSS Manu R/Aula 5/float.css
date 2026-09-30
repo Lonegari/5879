@@ -1,0 +1,33 @@
+img{
+    width: 150px;
+    float: right;
+    border: 1px solid
+
+}
+
+p{
+    overflow: auto;
+    background-color: rgb(147, 205, 209);
+    clear: right;
+
+}
+
+.box1{
+    margin: 10px;
+    height:250px;
+    width:250px;
+    background-color: rgb(123, 112, 175);
+    border: 5px double palevioletred;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.box2{
+     margin: 10px;
+     height:250px;
+     width:250px;
+     background-color: rgb(131, 197, 148);
+     border: 5px double rgba(255, 89, 89, 0.87);
+     padding: 20px;
+      box-sizing: border-box;
+}
